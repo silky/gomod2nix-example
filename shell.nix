@@ -19,5 +19,6 @@ pkgs.mkShell {
     goEnv
     pkgs.gomod2nix
     pkgs.nodejs
+    pkgs.protoc-gen-go
   ];
 }
