@@ -41,3 +41,7 @@ file appropriately. You can see that we've added `nodejs`.
 when you enter the folder. For more advanced usage, you can also use
 [nix-direnv](https://github.com/nix-community/nix-direnv) so it's super
 fast/cached. This is preferred.
+
+#### Links
+
+- <https://xeiaso.net/blog/nix-flakes-go-programs>
